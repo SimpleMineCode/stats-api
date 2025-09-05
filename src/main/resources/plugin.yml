@@ -1,0 +1,5 @@
+name: Stats
+author: SMCode
+version: 0.1
+website: https://smcode.io
+main: io.smcode.stats.StatsPlugin
